@@ -51,7 +51,7 @@ vehicle_damage_detection/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository
 
