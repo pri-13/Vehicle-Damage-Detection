@@ -4,7 +4,7 @@ An AI-powered web application for automatic vehicle damage detection using **YOL
 
 ---
 
-## 📌 Features
+## Features
 
 * Detects multiple vehicle damage types using a trained YOLOv8 model
 * Supports image upload (JPG, JPEG, PNG)
