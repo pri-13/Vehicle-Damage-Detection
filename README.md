@@ -147,7 +147,7 @@ The system provides:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Video damage detection
 * Real-time webcam support
