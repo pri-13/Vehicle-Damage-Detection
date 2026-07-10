@@ -29,7 +29,7 @@ An AI-powered web application for automatic vehicle damage detection using **YOL
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 vehicle_damage_detection/
