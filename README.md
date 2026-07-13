@@ -158,6 +158,3 @@ The system provides:
 * Damage history tracking
 
 ---
-
-## 👨‍💻 Author
-
