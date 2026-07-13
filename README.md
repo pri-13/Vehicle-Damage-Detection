@@ -133,7 +133,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📊 Output
+## Output
 
 The system provides:
 
