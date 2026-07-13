@@ -125,7 +125,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📷 Supported Image Formats
+## Supported Image Formats
 
 * JPG
 * JPEG
