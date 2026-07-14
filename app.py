@@ -12,7 +12,6 @@ from src.config import MODEL_PATH, TEMP_PATH, CONFIDENCE_THRESHOLD
 # page configuration
 st.set_page_config(
     page_title="Vehicle Damage Detection",
-    page_icon="🚗",
     layout="wide"
 )
 
@@ -30,7 +29,7 @@ def load_components():
 detector, assessor, reporter = load_components()
 
 # title
-st.title("🚗 Vehicle Damage Detection System")
+st.title("Vehicle Damage Detection System")
 st.caption("Upload a vehicle image to detect damages and generate an inspection report.")
 
 # sidebar
@@ -154,7 +153,7 @@ col1, col2 = st.columns(2)
 with col1:
     with open(csv_path, "rb") as file:
         st.download_button(
-            label="📄 Download CSV Report",
+            label="Download CSV Report",
             data=file,
             file_name="damage_report.csv",
             mime="text/csv",
@@ -164,7 +163,7 @@ with col1:
 with col2:
     with open(pdf_path, "rb") as file:
         st.download_button(
-            label="📕 Download PDF Report",
+            label="Download PDF Report",
             data=file,
             file_name="damage_report.pdf",
             mime="application/pdf",
