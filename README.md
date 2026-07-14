@@ -19,7 +19,7 @@ An AI-powered web application for automatic vehicle damage detection using **YOL
 
 ## Tech Stack
 
-* Python 3.14
+* Python 3.
 * Streamlit
 * Ultralytics YOLOv8
 * OpenCV
